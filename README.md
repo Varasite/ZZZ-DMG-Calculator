@@ -1,2 +1,3 @@
-# Zenless-Zone-Zero-Damage-Calculator
-Work In Progress...
+# Zenless Zone Zero Damage Calculator
+Work In Progress.
+
